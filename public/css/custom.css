@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('/fonts/LXGWWenKaiMono-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'LXGW WenKai', '思源黑体', 'Noto Sans SC', 'Microsoft YaHei', Arial, sans-serif;
+}
+
+.header-title,
+.header-title a {
+  font-family: 'LXGW WenKai', '思源黑体', 'Noto Sans SC', 'Microsoft YaHei', Arial, sans-serif !important;
+}
+
+.post-header {
+  margin-bottom: 20px;
+}

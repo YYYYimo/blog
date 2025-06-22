@@ -1,0 +1,37 @@
+baseURL = 'https://YYYYimo.github.io/'
+languageCode = 'zh-cn'
+title = 'The Way' 
+theme = "yinyang"
+DefaultContentLanguage = "cn" 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+[pagination]
+  pagerSize = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true                        
+  [markup.highlight]
+    guessSyntax = true                     
+    noClasses = true                       
+    style = "monokai"                           
+    tabWidth = 4
+
+[params.author]
+  name = "Yimo"                                         
+
+[params]
+mainSections = ["论文", "课程"]                   
+headTitle = "竹青学埠"
+Description = "“但是我依然坚持跑下去，强而有力、直视前方，永远对眼中看到的一切抱着希望与期待。”"
+favicon = "/favicon.png"
+extraCSSFiles = ["css/custom.css"]
+# [[params.socials]]
+# name = "About"
+# link = "https://joway.io"
+# [[params.socials]]
+# name = "Github"
+# link = "https://github.com/joway"

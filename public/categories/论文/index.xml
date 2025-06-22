@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>论文 on The Way</title>
+    <link>http://localhost:1313/categories/%E8%AE%BA%E6%96%87/</link>
+    <description>Recent content in 论文 on The Way</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 22 Apr 2025 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E8%AE%BA%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何阅读一篇论文</title>
+      <link>http://localhost:1313/%E8%AE%BA%E6%96%87/%E5%A6%82%E4%BD%95%E8%AF%BB%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Tue, 22 Apr 2025 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/%E8%AE%BA%E6%96%87/%E5%A6%82%E4%BD%95%E8%AF%BB%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87/</guid>
+      <description>&lt;p&gt;参考内容：&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV15e4y1S7xY/?spm_id_from=333.337.search-card.all.click&amp;amp;vd_source=a548bad895bdc9e993748fea0b7370cf&#34;&gt;【吴恩达】亲授 “如何有效阅读论文？并了解一个新的领域？”&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=txjl_Q4jCyQ&#34;&gt;如何读论文 (youtube.com)&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/712362109?utm_psn=1898114791861646298&#34;&gt;知乎专栏：如何读论文&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;multiple-pass-阅读法&#34;&gt;Multiple Pass 阅读法&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;title、abstract、figures：只看标题摘要和主要插图，判断这篇文章是否与你的研究/兴趣相关&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;intro、conclutions、figures、skim rest + related work：阅读引言（introduction）、结论（conclusion）、所有插图和图注。略读正文其他部分，关注相关工作是否有曾经读过的文章。知道方法里面每一个流程图、算法图长什么，图的x、y轴什么含义，圈出相关文献，看怎么与别的工作对比&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;read but skip/skim math：仔细阅读正文，但可以跳过复杂的数学推导或暂时不懂的部分。关注论文的核心思想和创新点&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;read whole things，skip the part that don&amp;rsquo;t make sense：知道每一句话在干什么，思考作者是怎么做的，如果是你，你会怎么做，对比作者的做法和你的思路有何异同&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;you-should-answer-this-question&#34;&gt;You should answer this question:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;作者试图解决什么问题？（What did authors try to accomplish?）&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;论文的关键要素是什么？（What were the key elements?）&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;哪些内容可以为自己所用？（What can you use yourself?）&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;有哪些相关工作值得进一步关注？（What related work do you want to follow?）&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;常见论文结构&#34;&gt;常见论文结构：&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;title&lt;/li&gt;&#xA;&lt;li&gt;abstruct&lt;/li&gt;&#xA;&lt;li&gt;intro&lt;/li&gt;&#xA;&lt;li&gt;method&lt;/li&gt;&#xA;&lt;li&gt;Experience&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>
