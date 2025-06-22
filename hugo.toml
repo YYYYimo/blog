@@ -1,4 +1,4 @@
-baseURL = 'https://YYYYimo.github.io/'
+baseURL = 'https://YYYYimo.github.io/blog/'
 languageCode = 'zh-cn'
 title = 'The Way' 
 theme = "yinyang"
