@@ -27,7 +27,7 @@ DefaultContentLanguage = "cn"
 mainSections = ["论文", "课程"]                   
 headTitle = "竹青学埠"
 Description = "“但是我依然坚持跑下去，强而有力、直视前方，永远对眼中看到的一切抱着希望与期待。”"
-favicon = "/favicon.png"
+favicon = "favicon.png"
 extraCSSFiles = ["css/custom.css"]
 # [[params.socials]]
 # name = "About"
